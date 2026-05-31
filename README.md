@@ -279,7 +279,3 @@ Tablas agregadas en `outputs/`: `ablation.csv`, `cross_dataset.csv`,
   sigue siendo válido para discutir el cuello de botella arquitectónico.
 
 ---
-
-> Nota académica: implementación original (U-Net, pérdidas, métricas, Grad-CAM
-> equivalente para segmentación a través del análisis FN/FP). No se usan
-> bibliotecas de segmentación preconstruidas. El plagio implica reprobación.
