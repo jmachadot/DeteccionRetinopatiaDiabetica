@@ -10,6 +10,31 @@ El código se ejecuta de extremo a extremo con un único comando (`python main.p
 
 ---
 
+> Examen Parcial - Maestría en Inteligencia Artificial · Curso de Redes Neuronales y Aprendizaje Profundo · Sección A · Grupo 7
+
+Integrantes:
+- Julio Machado Torres.
+- Brigitte Scarlett Del Río Ricce.
+
+Docente:
+- Ph.D. Aldo Camargo Fernández Baca.
+
+---
+
+## Tabla de contenido
+
+- [1. Requisitos](#1-requisitos)
+- [2. Estructura del proyecto](#2-estructura-del-proyecto)
+- [3. Entorno virtual en VS Code](#3-entorno-virtual-en-vs-code)
+- [4. Descargar los datasets](#4-descargar-los-datasets)
+- [5. Ejecución](#5-ejecución)
+- [6. Análisis post-hoc por grosor de vaso](#6-análisis-post-hoc-por-grosor-de-vaso)
+- [7. Salidas por corrida](#7-salidas-por-corrida)
+- [8. Cómo cada entregable queda cubierto](#8-cómo-cada-entregable-queda-cubierto)
+- [9. Solución de problemas](#9-solución-de-problemas)
+
+---
+
 ## 1. Requisitos
 
 - Python 3.11
