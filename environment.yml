@@ -1,0 +1,19 @@
+name: unet-retina
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch>=2.1
+  - torchvision>=0.16
+  - pytorch-cuda=12.1          # ajusta a tu versión de CUDA
+  - numpy>=1.24
+  - scikit-learn>=1.3
+  - scikit-image>=0.21
+  - matplotlib>=3.7
+  - pip
+  - pip:
+      - opencv-python>=4.8
+      - Pillow>=10.0
+      - tqdm>=4.66
